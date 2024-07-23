@@ -1,4 +1,11 @@
 # Blog Project
+
+## What is this?
+
+This is the final project for the Joy of React course by Josh W Comeau.
+Finished in the summer of 2024 (Jul 23).
+
+
 ## Joy of React, Project III
 
 In this project, we'll build an interactive MDX-based blog using Next.js 14 (App Router):
